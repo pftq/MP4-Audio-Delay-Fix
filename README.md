@@ -8,6 +8,7 @@ You may also find these useful:
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
 - Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
 - Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
+- Screencaps Generator (smart screencaps selection + gallery grid sheet) https://github.com/pftq/Screencaps-Generator
 
 The issue has long been documented for Adobe in particular but never fixed.  The problem appears to be that the AAC audio spec requires metadata to indicate where the audio actually starts, but Adobe doesn't supply it.  This tool simply adds it in.
 - https://community.adobe.com/questions-729/audio-out-of-sync-when-exporting-h-264-1421574
