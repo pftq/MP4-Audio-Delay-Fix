@@ -14,3 +14,9 @@ The issue has long been documented for Adobe in particular but never fixed.  The
 - https://community.adobe.com/questions-729/20-milliseconds-delay-1402050
 
 <img width="607" height="470" alt="image" src="https://github.com/user-attachments/assets/7cffee25-2fc6-42bd-a8d7-3c478d8608df" />
+
+Credits:
+- Python, application runtime
+- Tcl/Tk, user interface
+- PyAV / FFmpeg, media inspection and audio decoding
+- PyInstaller, Windows executable packaging
