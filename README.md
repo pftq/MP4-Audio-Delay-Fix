@@ -7,6 +7,7 @@ You may also find these useful:
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
 - MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
 - Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
+- Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
 
 The issue has long been documented for Adobe in particular but never fixed.  The problem appears to be that the AAC audio spec requires metadata to indicate where the audio actually starts, but Adobe doesn't supply it.  This tool simply adds it in.
 - https://community.adobe.com/questions-729/audio-out-of-sync-when-exporting-h-264-1421574
