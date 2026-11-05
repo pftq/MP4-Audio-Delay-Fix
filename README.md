@@ -6,7 +6,6 @@ Download here: https://github.com/pftq/MP4-Audio-Delay-Fix/releases/tag/20261103
 You may also find these useful:
 - Video Debanding (fixes quality issues with repeat re-processing/compression) https://github.com/pftq/Video-Debanding
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
-- MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
 - Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
 - Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
 
